@@ -1,5 +1,7 @@
 import Posts from "./components/Posts"
 
+// export const revalidate = 10 // false | "force-cache" | 0 | number
+
 export default function Home() {
   
   return (
